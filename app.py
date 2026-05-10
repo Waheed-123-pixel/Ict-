@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Header
 st.title("⚙️ Mechanical Unit Converter and Material Density Checker")
-st.subheader("Developed by Muhammad Bilal | Roll Number: 25-ME-124")
+st.subheader("Developed by Waheed Akhtar | Roll Number: 25F-ME-80")
 
 st.markdown("---")
 
